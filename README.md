@@ -49,6 +49,9 @@ Data Visualization
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience 3 "Slicers" were added.
 
 Below is a snippet of the final dashboard in Excel. Vrinda Dashboard
+![Screenshot 2025-07-07 005354](https://github.com/user-attachments/assets/f81cfeda-c521-4ce6-b08b-64c152ee3f03)
+
+
 
 Insights
 Key insights from the analysis: 📅 Peak Months: February and March witness the highest orders and sales activity.
